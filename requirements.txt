@@ -1,0 +1,5 @@
+certifi
+chardet
+colorama
+idna
+requests
